@@ -1,0 +1,189 @@
+.RestaurantName {
+     font-size: 50px;
+     margin-left: 75px;
+     text-decoration: underline; 
+	 white-space: pre;
+     color: #ffffff;
+     font-family:'Georgia', serif
+ }
+ body {
+    background-color: #B0C4DE; 
+ }
+	
+.nav a {
+  color: #5a5a5a;
+  font-size: 11px;
+  font-weight: bold;
+  padding: 14px 10px;
+  text-transform: uppercase;
+}
+
+.nav .container a {
+    color: black;
+    font-size: 25px;
+    font-family:'Times New Roman';
+}
+
+.nav li {
+  display: inline;
+}
+
+ .nav-pills a:hover {
+    color: #ffffff;
+    background-color: #4682B4;
+}
+
+.jumbotron {
+  background-image: url('http://cookdiary.net/wp-content/uploads/images/Seafood-Chowder.jpg');
+  height: 550px;
+  width: 1250px;
+  margin: auto;
+  background-size: cover;
+  border:1px solid black;
+}
+
+.jumbotron .container {
+  position: relative;
+  top:100px;
+}
+
+.jumbotron h1 {
+  color: white;
+  text-shadow: 5px 5px 3px black;
+  font-size: 48px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  white-space: pre;
+}
+
+.jumbotron p {
+  color: white;
+  text-shadow:  -1px -1px 0 #000, 1px -1px 0 #000, -1px 1px 0 #000, 1px 1px 0 #000;  
+  font-size: 35px;  
+  font-family: 'Shift', sans-serif;
+  font-weight: bold;
+  white-space: pre;
+}
+
+.index h1 {
+    margin-left: 30px;
+    text-decoration: underline; 
+    white-space: pre;
+    font-family: 'Shift';
+    font-size: 45px;
+	font-weight:500;
+	white-space: pre;
+}
+
+.index p {
+    margin-left: 30px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 25px;
+	white-space: pre;
+}
+
+.Menu h1 {
+    margin-left: 30px;
+    text-decoration: underline; 
+    white-space: pre;
+    font-family: 'Shift';
+    font-size: 40px;
+	font-weight:500;
+	white-space: pre;
+}
+
+.Menu h2 {
+   margin-left: 50px;
+   text-decoration: underline;
+   white-space: pre;
+   font-size: 30px;
+   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+   font-weight:500;
+}
+
+.Menu img{
+	width: 300px;
+	height: 200px;
+	margin-left: 50px;
+	border:1px solid black;
+}
+
+.Menu p {
+	font-size: 25px;
+	margin-left: 50px;
+	font-family: 'Shift';
+	white-space: pre;
+}
+
+.Location h1 {
+    margin-left: 30px;
+    text-decoration: underline; 
+    white-space: pre;
+    font-family: 'Shift';
+    font-size: 40px;
+	font-weight:500;
+	white-space: pre;
+}
+
+.Location p {
+    margin-left: 30px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+	white-space: pre;
+}
+
+.restaurantBuilding img{
+	width: 600px;
+	height: auto;
+	margin: auto;
+	margin-left: 30px;
+	border:1px solid black;
+}
+
+.RestaurantLocation img {
+	width: 350px;	 
+    border:1px solid black;
+} 
+.Contact h1 {
+    margin-left: 30px;
+    text-decoration: underline; 
+    white-space: pre;
+    font-family: 'Shift';
+    font-size: 40px;
+	font-weight:500;
+	white-space: pre;
+}
+
+.Contact p {
+    margin-left: 30px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+	white-space: pre;
+}
+
+.Reviews h1 {
+    margin-left: 30px;
+    text-decoration: underline; 
+    white-space: pre;
+    font-family: 'Shift';
+    font-size: 40px;
+	font-weight:500;
+	white-space: pre;
+}
+
+.Reviews p {
+	margin-left: 30px;
+	margin-bottom: 50px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    font-size: 20px;
+	white-space: pre;
+}
+
+footer {
+    margin-left: 100px;
+    margin-top: 100px;
+    margin-bottom: 10px;
+    font-weight: bold;
+	max-width: 1000px;
+    background-color: #B0C4DE; 
+}
