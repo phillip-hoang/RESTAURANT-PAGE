@@ -47,7 +47,7 @@
   top:100px;
 }
 
-.jumbotron h1 {
+.jumbotron h2 {
   color: white;
   text-shadow: 5px 5px 3px black;
   font-size: 48px;  
@@ -75,15 +75,6 @@
 	white-space: pre;
 }
 
-.index h2 {
-    margin-left: 30px;
-    text-decoration: underline; 
-    white-space: pre;
-    font-family: 'Shift';
-    font-size: 45px;
-	font-weight:500;
-	white-space: pre;
-}
 .index p {
     margin-left: 30px;
     font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
